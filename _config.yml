@@ -29,14 +29,14 @@ menu:
 # Owner/author information
 owner:
   name:           Alex Biryukov
-  site:           http://abiryukov.com
+  site:           http://novosyolovalexander.github.io
   avatar:         images/avatar.jpg
   bio:            "I am a software developer. I am experienced in full-stack .NET, Web, MS SQL Server. Currently, my passion is blockchain-based technologies."
   email:          alex@abiryukov.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: _AlexBiryukov_ # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: sanbir
+  #github: sanbir
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -44,8 +44,8 @@ twitter:
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
-  - title: "github"
-    url: "https://github.com/sanbir"
+  #- title: "github"
+   # url: "https://github.com/sanbir"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/biryukovalexander"
   - title: "youtube"
