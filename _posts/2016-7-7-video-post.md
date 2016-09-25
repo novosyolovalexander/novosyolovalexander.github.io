@@ -6,6 +6,8 @@ tags: [sample post, video]
 categories: [intro]
 ---
 
+<img src="http://novosyolovalexander.github.io/images/Koala.jpg"></img>
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
