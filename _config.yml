@@ -10,7 +10,7 @@ logo:             images/logo.png # logo visible in the topbar
 
 url: 
 # http://localhost:4000/
- http://novosyolovalexander.github.io
+ http://anovoselov.org/
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -28,28 +28,28 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Alex Biryukov
-  site:           http://novosyolovalexander.github.io
+  name:           Alex Novoselov
+  site:           http://anovoselov.org/
   avatar:         images/avatar.jpg
-  bio:            "I am a software developer. I am experienced in full-stack .NET, Web, MS SQL Server. Currently, my passion is blockchain-based technologies."
-  email:          alex@abiryukov.com
+  bio:            "I play organ"
+  email:          alex@anovoselov.org
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: _AlexBiryukov_ # if no twitter in this config, the twitter follow button will be removed
+  twitter: novoselov_alex # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
   #github: sanbir
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter: 
+twitter: novoselov_alex
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
   #- title: "github"
    # url: "https://github.com/sanbir"
   - title: "linkedin"
-    url: "https://www.linkedin.com/in/biryukovalexander"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCrcNJMiiZCK5v5rGMJitcjw"
+    url: "https://www.linkedin.com/in/novoselov-alexander"
+  #- title: "youtube"
+    #url: "https://www.youtube.com/channel/"
 # Background image to be tiled on all pages
 background:
 
