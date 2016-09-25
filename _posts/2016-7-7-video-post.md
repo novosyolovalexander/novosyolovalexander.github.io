@@ -13,6 +13,10 @@ categories: [intro]
 | zebra stripes | are neat      |    $1 |
 
 
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
+
 {::nomarkdown}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Ft7UXwLnJE" frameborder="0" allowfullscreen></iframe>
 {:/nomarkdown}
